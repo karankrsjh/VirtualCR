@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "423626674959",
+    "firebase_url": "https://virtualcr-51b83.firebaseio.com",
+    "project_id": "virtualcr-51b83",
+    "storage_bucket": "virtualcr-51b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423626674959:android:ad20d7d94971372b",
+        "android_client_info": {
+          "package_name": "com.karan.virtualcr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423626674959-m3vegchg3f067n97grq8tunu8sncpbgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karan.virtualcr",
+            "certificate_hash": "5ede496e72269ea1429290a2e61f9fc0b83d938b"
+          }
+        },
+        {
+          "client_id": "423626674959-hgk8j0rq8a5grdu55bkbqoglvrqd2kla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMO0K9QF7yAxlwk5f9nUA_ikr2A3BL9uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423626674959-hgk8j0rq8a5grdu55bkbqoglvrqd2kla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
